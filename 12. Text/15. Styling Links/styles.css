@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'ChunkFiveRegular';
+	src: url('fonts/chunkfive.eot');
+}
+body {
+	font-family: Georgia, Times, serif;
+	font-size: 12px;
+}
+li {
+	line-height: 1.5em;
+	color: #E75480;
+}
+h1 {
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 200%;
+}
+
+a:link {
+	color: deeppink;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	color: deeppink;
+	text-decoration: underline;
+}
+a:active {
+	color: darkcyan;
+}

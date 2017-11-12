@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'ChunkFiveRegular';
+	src: url('fonts/chunkfive.eot');
+}
+body {
+	font-family: Georgia, Times, serif;
+	font-size: 12px;
+}
+p {
+	line-height: 1.5em;
+}
+h1 {
+	background-image: 
+	url(http://www.htmlandcssbook.com/code-samples/chapter-12/images/logo.gif);
+    background-repeat: no-repeat;
+    width: 165px;
+    height: 100px;
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 200%;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	text-indent: -999px;
+}
+h2 {
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	font-weight: bold;
+	word-spacing: 0.5em;
+}
+.credits {
+	font-style: italic;
+	text-transform: capitalize;
+	text-decoration: underline;
+	text-indent: 20px;
+}
+a {
+	text-decoration: none;
+}

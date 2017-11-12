@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'ChunkFiveRegular';
+	src: url('fonts/chunkfive.eot');
+}
+body {
+	font-family: Georgia, Times, serif;
+	font-size: 12px;
+}
+p {
+	line-height: 1.5em;
+}
+h1 {
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 200%;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+}
+h2 {
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 1.3em;
+	text-transform: uppercase;
+	font-weight: bold;
+	word-spacing: 0.5em;
+}
+.credits {
+	font-style: italic;
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+}
