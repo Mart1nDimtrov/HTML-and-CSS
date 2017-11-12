@@ -1,18 +1,35 @@
 * {
-font-family: Arial, Verdana, sans-serif;}
+	font-family: Arial, Verdana, sans-serif;
+}
+
 h1 {
-font-family: "Courier New", monospace;} 
+	font-family: "Courier New", monospace;
+} 
+
 i {
-color: green;} 
+	color: green;
+} 
+
 i {
-color: red;} 
+	color: red;
+} 
+
 b {
-color: pink;} 
+	color: pink;
+} 
+
 p b {
-color: blue !important;} 
+	color: blue !important;
+} 
+
 p b {
-color: violet;}
+	color: violet;
+}
+
 p#intro {
-font-size: 100%;}
+	font-size: 100%;
+}
+
 p {
-font-size: 75%;}
+	font-size: 75%;
+}
