@@ -1,0 +1,9 @@
+p {
+	border: solid;
+}
+p.one {
+	border-color: #0088dd;
+}
+p.two {
+	border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+}

@@ -1,0 +1,12 @@
+p {
+	border: solid;
+}
+.one {
+	border-width: 2px;
+}
+.two {
+	border-width: thick;
+}
+.three {
+	border-width: 1px 4px 12px 4px;
+}
