@@ -1,0 +1,6 @@
+ul {
+	list-style-image: url("http://www.htmlandcssbook.com/code-samples/chapter-14/images/star.png");
+}
+li {
+	margin: 10px 0px 0px 0px;
+}

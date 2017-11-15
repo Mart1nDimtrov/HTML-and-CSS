@@ -1,0 +1,12 @@
+td {
+	border: 1px solid #0088dd;
+	padding: 15px;
+}
+table.one {
+	display: inline;
+	empty-cells: show;
+}
+table.two {
+	empty-cells: hide;
+	display: inline;
+}
