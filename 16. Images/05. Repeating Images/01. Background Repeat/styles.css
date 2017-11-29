@@ -1,0 +1,10 @@
+body {
+	color: black;
+	background-image: url("http://www.htmlandcssbook.com/code-samples/chapter-16/images/pattern.gif");
+	background-repeat: repeat-x;
+	background-size: 4%;
+}
+
+h1 {
+	color: white;
+}

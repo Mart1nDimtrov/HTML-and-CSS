@@ -1,0 +1,6 @@
+body {
+	color: black;
+	background-image: url("http://www.htmlandcssbook.com/code-samples/chapter-16/images/tulip.gif");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}

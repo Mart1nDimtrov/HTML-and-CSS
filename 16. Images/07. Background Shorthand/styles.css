@@ -1,0 +1,8 @@
+body {
+	color: black;
+	background:
+	url("http://www.htmlandcssbook.com/code-samples/chapter-16/images/tulip.gif")
+	left bottom no-repeat,
+	url("http://www.htmlandcssbook.com/code-samples/chapter-16/images/tulip.gif")
+	top center repeat-x;
+}

@@ -1,0 +1,10 @@
+#gradient {
+	background-color: #66cccc;
+	background-image: -moz-linear-gradient(#FAEBD7, 
+		#00FFFF);
+	/* Safari 4+, Chrome 1+ */
+	background-image: -webkit-gradient(linear, 0% 0%, 
+	0% 100%, from(#FAEBD7), to(#00FFFF));
+	height: 150px;
+	width: 300px;
+}
